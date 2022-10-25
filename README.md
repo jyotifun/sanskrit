@@ -1,4 +1,4 @@
-# sanskrit
+# sanskrit 1.0.1
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
