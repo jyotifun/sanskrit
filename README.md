@@ -17,15 +17,18 @@
 
 Mac, Windows 方便快捷的梵文词典:
 
-* 內置六大梵英字典，本程序集成了 
-Apte
-Macdonell
-Monier
-梵漢詞匯
-佛學梵英詞典（Buddhist Hybrid Sanskrit (1953) 詞典）
-實用梵英詞典（Practical Sanskrit-English）
+本程序包含幾十萬單詞，可以不用聯網離線查詢。
 
-等六個字典幾十萬單詞，可以不用聯網離線查詢。
+內置六大梵英字典，
+* Apte
+* Macdonell
+* Monier
+* 梵漢詞匯
+* 佛學梵英詞典（Buddhist Hybrid Sanskrit (1953) 詞典）
+* 實用梵英詞典（Practical Sanskrit-English）
+
+本程序包含幾十萬單詞，可以不用聯網離線查詢。
+
 
 <!-- LICENSE -->
 ## 授权
