@@ -1,4 +1,4 @@
-# sanskrit 1.0.1
+# sanskrit 1.0.3
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
@@ -44,7 +44,10 @@ Mac, Windows 方便快捷的梵文词典:
 * 微信公号: 玄妙莫测
 * 微信视频: 与神交流
 * 我的知乎:    老莫 - [我的知乎:    老莫](https://www.zhihu.com/people/eiffelqiu)
+* 我的B站:    老莫 - [我的B站:    老莫的乐道](https://space.bilibili.com/11070763/dynamic)
 * 我的邮箱: jyoti.fun &nbsp; @&nbsp; hotmail.com
+* 给老莫打赏 
+
 
 * 该程序永久网址: [https://github.com/jyotifun/sanskrit](https://github.com/jyotifun/sanskrit)
 
