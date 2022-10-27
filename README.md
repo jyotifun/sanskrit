@@ -30,10 +30,10 @@ Mac, Windows 方便快捷的梵文词典:
 本程序包含幾十萬單詞，可以不用聯網離線查詢。
 
 
-<!-- LICENSE -->
-## 授权
+<!-- Money -->
+## 给老莫打赏
 
-以 Creative Common License 发布. 参看 `LICENSE`.
+<img src="zs.png" alt="screenshot">
 
 <!-- CONTACT -->
 ## 联系方式
@@ -46,7 +46,7 @@ Mac, Windows 方便快捷的梵文词典:
 * 我的知乎:    老莫 - [我的知乎:    老莫](https://www.zhihu.com/people/eiffelqiu)
 * 我的B站:    老莫 - [我的B站:    老莫的乐道](https://space.bilibili.com/11070763/dynamic)
 * 我的邮箱: jyoti.fun &nbsp; @&nbsp; hotmail.com
-* 给老莫打赏 
+*  
 
 
 * 该程序永久网址: [https://github.com/jyotifun/sanskrit](https://github.com/jyotifun/sanskrit)
