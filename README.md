@@ -4,9 +4,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/jyotifun/sanskrit">
-    <img src="screenshot.png" alt="screenshot">
-  </a>
+<img src="screenshot.png" alt="screenshot">
+<img src="screenshot1.png" alt="screenshot1">
+<img src="screenshot2.png" alt="screenshot2">
+<img src="screenshot3.png" alt="screenshot3">
+<img src="screenshot4.png" alt="screenshot4">
 
   <h3 align="center">梵文词典</h3>
 
